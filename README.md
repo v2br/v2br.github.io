@@ -1,2 +1,2 @@
 # vimwik.github.io
-Thisi s the first step. next to floow
+This is the first step to setup pages with jekyll.
